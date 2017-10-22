@@ -1,0 +1,7 @@
+#Wed Oct 18 19:54:51 ICT 2017
+base.0=F\:\\TugasWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df72df4c67f1be915f6b9ae5f2972d7705df1f84
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\TugasWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_31fdbd48707d417b9db571ca55101e969c319ef8\\classes.dex
+base.1=F\:\\TugasWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_31fdbd48707d417b9db571ca55101e969c319ef8
+file.0=F\:\\TugasWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df72df4c67f1be915f6b9ae5f2972d7705df1f84\\classes.dex
